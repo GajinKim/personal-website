@@ -31,7 +31,7 @@ $ npm run start
 TODO
 
 ## More Resources
-List of resources and tools used to build this website.
+A list of resources and tools used to build this website as well as some cool pages I've stumbled across while working on this project!
 <details>
     <summary><b>Resources & Tools</b></summary>
 
@@ -40,7 +40,6 @@ List of resources and tools used to build this website.
 </details>
 <br>
 
-List of cool pages I've stumbled upon while working on this project!
 <details>
 <summary><b>Cool Pages</b></summary>
 
