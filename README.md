@@ -1,11 +1,10 @@
 # Welcome to My Website :cherry_blossom: Poggers! :cherry_blossom:
-
+Hi, my name is Gajin and I'm a software consultant working for [Source Allies](https://www.sourceallies.com/)!
 
 ## Purpose?
-- Showing off projects I've been working on!
+- Showing off projects I've been working on
 - Practicing deploying a static website using an S3 Bucket
-- Keeping React skills up to date :maple_leaf:
-
+- Keeping React skills sharp :maple_leaf:
 
 ## Running locally
 ### Environment setup
@@ -28,9 +27,10 @@ Run the application as a static page.
 $ npm run start
 ```
 
-## More Resources
-#
+## Testing
+TODO
 
+## More Resources
 List of resources and tools used to build this website.
 <details>
     <summary><b>Resources & Tools</b></summary>
