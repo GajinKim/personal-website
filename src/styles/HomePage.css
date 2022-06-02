@@ -1,0 +1,25 @@
+.homepage-wrapper {
+    background-color: rgba(50,100,50,0.5); /* add opacity in order to add background image later on */
+    height: 100vh;
+}
+
+.homepage-content-wrapper {
+    /* margin: 0; */
+    margin-left: 10%;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    
+    
+}
+
+.homepage-content-wrapper > h1 {
+    font-size: 4em;
+    color: white;
+    
+}
+
+.homepage-content-wrapper > p {
+    color: white;
+}
