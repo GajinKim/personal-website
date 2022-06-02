@@ -2,14 +2,12 @@
 
 
 ## Purpose?
-#
 - Showing off projects I've been working on!
 - Practicing deploying a static website using an S3 Bucket
 - Keeping React skills up to date :maple_leaf:
 
 
 ## Running locally
-#
 ### Environment setup
 Navigate to the project directory and ensure you're using the correct version of Node. Then, install the Node dependencies with [npm](https://www.npmjs.com/).
 ```bash
@@ -47,5 +45,6 @@ List of cool pages I've stumbled upon while working on this project!
 <summary><b>Cool Pages</b></summary>
 
 - [Markdown emotes](https://gist.github.com/rxaviers/7360908) 
+- [Angel Uriot's Portfolio](https://www.angeluriot.com/portfolio/)
 
 </details>
