@@ -7,7 +7,7 @@ function App() {
     <div>
       <ReactNavbar
         color="rgb(25, 25, 25)"
-        logo="https://cdn.vox-cdn.com/thumbor/z9OFvvaKHpR642zqr6rC_qoBqOY=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/22010347/Screen_Shot_2020_11_03_at_2.08.39_PM.png"
+        logo="logo192.png"
         menu={[
           { name: "HOME", to: "/" },
           { name: "ARTICLES", to: "/articles" },
