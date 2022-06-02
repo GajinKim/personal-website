@@ -38,8 +38,6 @@ A list of resources and tools used to build this website as well as some cool pa
 - [React App](https://github.com/facebook/create-react-app) 
 
 </details>
-<br>
-
 <details>
 <summary><b>Cool Pages</b></summary>
 
