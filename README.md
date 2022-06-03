@@ -42,6 +42,7 @@ A list of resources and tools used to build this website as well as some cool pa
 <summary><b>Cool Pages</b></summary>
 
 - [Markdown emotes](https://gist.github.com/rxaviers/7360908) 
+- [Cool Navbar](https://openbase.com/js/react-responsive-animate-navbar/documentation)
 - [Angel Uriot's Portfolio](https://www.angeluriot.com/portfolio/)
 
 </details>
